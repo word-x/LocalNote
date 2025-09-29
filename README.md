@@ -33,5 +33,3 @@ cross-platform: support any devices including PC and mobile devices
 ## Reference
 - Homepage: https://timynote.word-x.com/
 - Docs: https://timynote.word-x.com/blog/
-## [Donate]([url](https://buy.stripe.com/bIYdRq54ugIB5iwdQW))
-[![](https://github.com/user-attachments/assets/f0329436-4778-465b-aa16-8435035e2b53)](https://buy.stripe.com/bIYdRq54ugIB5iwdQW)
